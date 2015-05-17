@@ -32,7 +32,7 @@ $ cat samples/fizzbuzz.emoj
     ✉💪1
   🚶
 🎓
-$ emjojit samples/fizzbuzz.emoj
+$ emojit samples/fizzbuzz.emoj
 1
 2
 fizz
