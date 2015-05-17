@@ -1,6 +1,6 @@
-# emoji_lang.rb
+# Emoji Lang
 
-[EmojiLang](https://github.com/anowell/emoji-lang) on top of any Ruby Virtual Machine.
+[Emoji Lang](https://github.com/anowell/emoji-lang) on top of any Ruby Virtual Machine.
 
 ## INSTALLATION
 
