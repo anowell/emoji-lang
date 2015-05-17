@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+$:<< 'lib'
+require 'parser'
+
+parser = Emojit::Parser.new(ARGV[0])
+
+# puts "\nemojit..."
+
+parser.execute($-w)
+
+# puts "\n\nExiting."
