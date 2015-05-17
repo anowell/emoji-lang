@@ -2,6 +2,8 @@
 
 [Emoji Lang](https://github.com/anowell/emoji-lang) on top of any Ruby Virtual Machine.
 
+**Open to suggestions and/or additional samples**
+
 ## INSTALLATION
 
     gem install emoji_lang
