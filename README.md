@@ -2,7 +2,7 @@
 
 [Emoji Lang](https://github.com/anowell/emoji-lang) on top of any Ruby Virtual Machine.
 
-See the [emoji keywords](lib/tokens.rb). 
+See the [emoji keywords](lib/tokens.rb) and/or [samples](samples). 
 
 **Open to suggestions and/or additional samples**
 
